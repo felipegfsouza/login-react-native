@@ -27,13 +27,15 @@ O projeto feito  faz  parte  do  meu estudo  na Escola  técnica de são Paulo [
 
 <p align="center">
   <img 
-    alt="GitHub last commit" src="image-cell.jpeg" width="75%"
+    alt="GitHub last commit" 
+    src="image-cell.jpeg" 
+    width="55%"
   >
   <img 
     alt="Github" 
     src="image-cell-keyboard.jpeg"  
     alt="image" 
-    width="75%"
+    width="55%"
   >
 </p>
 
